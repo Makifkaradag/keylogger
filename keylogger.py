@@ -1,3 +1,12 @@
+print("""
+| ========================================== |
+|               KEYLOGGER                    |
+|                                            |
+|   mail  ==> cyberbos@protonmail.com        |   
+|    github ==>  github.com/securtie54       |   
+| ========================================== |  
+""")
+
 import pynput
 
 from pynput.keyboard import Key,Listener
