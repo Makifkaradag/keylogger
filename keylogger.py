@@ -2,8 +2,8 @@ print("""
 | ========================================== |
 |               KEYLOGGER                    |
 |                                            |
-|   mail  ==> cyberbos@protonmail.com        |   
-|    github ==>  github.com/securtie54       |   
+|   mail  ==> akifkaradag002@gmail.com       |   
+|   github ==>  github.com/Makifkaradag      |   
 | ========================================== |  
 """)
 
